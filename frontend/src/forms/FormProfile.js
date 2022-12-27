@@ -111,7 +111,7 @@ const FormProfile = () => {
             {success ? (
               <div className={ProfileCSS.bgSection}>
                 <div className={ProfileCSS.sectionSignUp}>
-                  <h1> Profil Edité ! </h1>
+                  <h1> Profil édité ! </h1>
                   <p>
                     <Link
                       className={ProfileCSS.aReg}
